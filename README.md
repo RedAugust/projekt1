@@ -1,3 +1,6 @@
-#Projekt 1
-Hello World!
-Repository's file
+# projekt1
+• Opis projektu
+• Instalacja
+• Użycie
+• Licencja
+* coś tam
