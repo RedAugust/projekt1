@@ -3,4 +3,4 @@
 • Instalacja
 • Użycie
 • Licencja
-* coś tam
+* coś tam cos tam
