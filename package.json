@@ -4,7 +4,9 @@
   "description": "• Opis projektu • Instalacja • Użycie • Licencja * coś tam cos tam",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "start": "node index.js",
+    "test": "jest",
+    "build": "echo 'Brak komendy build, ale działa!'"
   },
   "repository": {
     "type": "git",
