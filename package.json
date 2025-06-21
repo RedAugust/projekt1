@@ -1,0 +1,27 @@
+{
+  "name": "ndabo",
+  "version": "1.0.0",
+  "description": "• Opis projektu • Instalacja • Użycie • Licencja * coś tam cos tam",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedAugust/projekt1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedAugust/projekt1/issues"
+  },
+  "homepage": "https://github.com/RedAugust/projekt1#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
